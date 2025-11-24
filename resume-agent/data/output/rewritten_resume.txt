@@ -1,0 +1,25 @@
+MOCK_REWRITE
+
+You are an expert resume writer. Rewrite the candidate's resume text to:
+- Convert duties into achievements
+- Add quantification when obvious (do NOT hallucinate exact numbers; suggest placeholders like <X>% if unsure)
+- Use strong action verbs and concise bullets (max 14 words per bullet)
+- Preserve factual content from the original
+INPUT_RESUME:
+MICHELLE SMITH
+email@email.com
+(541) 754-3010
+1515 Pacific Ave, CA 90291 Los Angeles
+Sant Antonio
+American
+resumeviking.com/templates
+xe0r1ukd.com/24QSBG/9B9DM/?uid=17
+SKILLS EMPLOYMENT
+Client Relationship Global Key Account Manager Sep 2022 - Apr 2025
+Management Inash Oil & Petroleum, Dallas, TX
+Sales performance with current clients increased by 20% following
+the
+Team Leadership
+implementation 6-month account executive exchange programs
+to
+com

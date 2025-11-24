@@ -1,0 +1,25 @@
+{
+  "candidate_id": "sample",
+  "overall_score": 59,
+  "scores": {
+    "metrics_achievement": 12,
+    "action_verbs": 8,
+    "quantification": 12,
+    "relevance": 9,
+    "readability": 18
+  },
+  "top_changes": [
+    {
+      "index": 0,
+      "type": "added_line",
+      "summary": "Led a 5-person team that increased throughput by 10% and reduced latency by 20%."
+    },
+    {
+      "index": 0,
+      "type": "removed_line",
+      "summary": "Worked on team. Responsible for debugging. Increased throughput by 10%."
+    }
+  ],
+  "changed_lines": [],
+  "timestamp": "2025-11-24T19:45:45.335246+05:30"
+}

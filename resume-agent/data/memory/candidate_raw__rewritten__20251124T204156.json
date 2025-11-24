@@ -1,0 +1,6 @@
+{
+  "candidate_id": "candidate_raw",
+  "stage": "rewritten",
+  "timestamp": "20251124T204156",
+  "text": "MOCK_REWRITE\n\nYou are an expert resume writer. Rewrite the candidate's resume text to:\n- Convert duties into achievements\n- Add quantification when obvious (do NOT hallucinate exact numbers; suggest placeholders like <X>% if unsure)\n- Use strong action verbs and concise bullets (max 14 words per bullet)\n- Preserve factual content from the original\nINPUT_RESUME:\nMICHELLE SMITH\nemail@email.com\n(541) 754-3010\n1515 Pacific Ave, CA 90291 Los Angeles\nSant Antonio\nAmerican\nresumeviking.com/templates\nxe0r1ukd.com/24QSBG/9B9DM/?uid=17\nSKILLS EMPLOYMENT\nClient Relationship Global Key Account Manager Sep 2022 - Apr 2025\nManagement Inash Oil & Petroleum, Dallas, TX\nSales performance with current clients increased by 20% following\nthe\nTeam Leadership\nimplementation 6-month account executive exchange programs\nto\ncom"
+}
